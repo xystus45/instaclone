@@ -1,5 +1,5 @@
-# Instaclone
-
+**# Instaclone
+**
 ## As users you can :
 * Login and post your favourites photos                             l
 * View different photos that interest you.
