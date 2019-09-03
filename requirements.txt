@@ -1,6 +1,8 @@
 attrs==19.1.0
 autopep8==1.4.4
+BareNecessities==0.2.8
 bootstrap4==0.1.0
+CommandTool==0.5.3
 config==0.4.2
 confusable-homoglyphs==3.0.0
 dj-database-url==0.5.0
@@ -12,6 +14,7 @@ django-heroku==0.3.1
 django-imagekit==4.0.2
 django-registration==3.0.1
 django-tinymce==2.7.0
+Gallery==0.1.0
 gunicorn==19.9.0
 hypothesis==4.23.0
 include==0.2.2
